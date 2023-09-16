@@ -67,16 +67,18 @@ header {
 
 h2.our-mission, h4.our-mission {
     background-color: #000;
+    flex-direction: column;
     color: seashell;
     align-items: center;
     justify-content: center;
     position:relative;
     vertical-align: middle;
-    width: 2000px;
+    width: 100%;
     padding: 15px;
     margin: auto;
     top: 300px;
     flex-wrap: wrap;
+    background-size: cover;
     
 }
 
